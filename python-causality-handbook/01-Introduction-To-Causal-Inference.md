@@ -13,7 +13,8 @@ Yi(1) = Y1i = Potential outcome for the same unit i with the treatment
 ```
 </br>
 
-***Factual and Counterfactual Graph***</br></br>
+***Factual and Counterfactual Graph***</br>
+>In the case where individual `i` is not treated, $`T0_i`$, the factual outcome would be $`Y0_i`$ whilst counterfactual outcome is $`Y1_i`$
 
 ```mermaid
 flowchart LR
